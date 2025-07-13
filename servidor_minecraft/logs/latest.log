@@ -153,3 +153,7 @@
 [13Jul2025 13:39:55.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <josuektm12> -7948 71 -7525
 [13Jul2025 13:47:41.183] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=202, y=47, z=211}
 [13Jul2025 13:48:16.548] [Worker-Main-46/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=203, y=48, z=159}
+[13Jul2025 13:49:09.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: josuektm12 has made the advancement [Ice Bucket Challenge]
+[13Jul2025 13:52:10.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <josuektm12> aurita vuelvo
+[13Jul2025 13:52:11.665] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: josuektm12 lost connection: Disconnected
+[13Jul2025 13:52:11.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: josuektm12 left the game
