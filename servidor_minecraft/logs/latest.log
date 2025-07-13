@@ -169,3 +169,6 @@
 [13Jul2025 14:31:43.671] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: josuektm12[/127.231.151.96:53567] logged in with entity id 15334 at (-7163.927837348598, -1.0, -7429.989552765347)
 [13Jul2025 14:31:43.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: josuektm12 joined the game
 [13Jul2025 14:37:05.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: josuektm12 has made the advancement [Life turned out to be a comedy]
+[13Jul2025 14:39:52.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: josuektm12 has made the advancement [Cover Me with Diamonds]
+[13Jul2025 14:44:00.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: josuektm12 has made the advancement [Call For Adventure]
+[13Jul2025 14:44:04.188] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3682ms or 73 ticks behind
