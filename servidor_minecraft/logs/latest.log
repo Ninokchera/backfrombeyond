@@ -157,3 +157,9 @@
 [13Jul2025 13:52:10.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <josuektm12> aurita vuelvo
 [13Jul2025 13:52:11.665] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: josuektm12 lost connection: Disconnected
 [13Jul2025 13:52:11.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: josuektm12 left the game
+[13Jul2025 14:15:50.926] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: josuektm12[/127.231.151.96:38255] logged in with entity id 12071 at (-7041.699999988079, 87.0, -7715.699999988079)
+[13Jul2025 14:15:50.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: josuektm12 joined the game
+[13Jul2025 14:17:56.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: josuektm12 has made the advancement [Not Today, Thank You]
+[13Jul2025 14:18:21.812] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/12925, l='ServerLevel[world]', x=-7031.50, y=13.00, z=-7615.50]
+[13Jul2025 14:18:21.812] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/12926, l='ServerLevel[world]', x=-7031.50, y=15.00, z=-7613.50]
+[13Jul2025 14:18:40.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: josuektm12 has made the advancement [Rocks Off!]
