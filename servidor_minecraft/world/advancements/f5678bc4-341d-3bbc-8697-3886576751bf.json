@@ -190,21 +190,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/lever": {
+  "alexsmobs:alexsmobs/maraca": {
     "criteria": {
-      "has_cobblestone": "2025-07-13 03:30:44 +0000"
+      "maraca": "2025-07-13 01:49:21 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+  "alexsmobs:alexsmobs/la_cucaracha": {
     "criteria": {
-      "has_iron_axe": "2025-07-13 01:57:17 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/orange_lens": {
-    "criteria": {
-      "has_glass_pane": "2025-07-13 03:34:20 +0000"
+      "tame": "2025-07-13 01:49:24 +0000"
     },
     "done": true
   },
@@ -214,15 +208,117 @@
     },
     "done": true
   },
-  "securitycraft:recipes/misc/lime_lens": {
+  "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
-      "has_glass_pane": "2025-07-13 03:34:20 +0000"
+      "has_lapis_lazuli": "2025-07-13 01:51:38 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
       "has_book": "2025-07-13 01:56:55 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-07-13 01:56:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-07-13 01:56:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-07-13 01:56:55 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_bookshelf": {
+    "criteria": {
+      "has_book": "2025-07-13 01:56:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-07-13 01:56:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_axe": "2025-07-13 01:57:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_axe": "2025-07-13 01:57:17 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:squireofthe_dark_lord": {
+    "criteria": {
+      "squireofthe_dark_lord_5": "2025-07-13 01:57:52 +0000"
+    },
+    "done": false
+  },
+  "born_in_chaos_v1:fighting_nightmares": {
+    "criteria": {
+      "fighting_nightmares_0": "2025-07-13 01:59:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-07-13 01:59:32 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:root": {
+    "criteria": {
+      "nova_structures:adventure/find_tavern": "2025-07-13 02:02:09 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_tavern": {
+    "criteria": {
+      "nova_structures:tavern_oak": "2025-07-13 02:02:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2025-07-13 03:29:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-07-13 03:29:38 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/sc_manual": {
+    "criteria": {
+      "has_wood": "2025-07-13 03:29:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-07-13 03:29:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2025-07-13 03:30:44 +0000"
     },
     "done": true
   },
@@ -235,12 +331,6 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2025-07-13 03:30:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/lapis_block": {
-    "criteria": {
-      "has_lapis_lazuli": "2025-07-13 01:51:38 +0000"
     },
     "done": true
   },
@@ -262,21 +352,9 @@
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/reinforced_chiseled_bookshelf": {
-    "criteria": {
-      "has_book": "2025-07-13 01:56:55 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/redstone/laser_block": {
     "criteria": {
       "has_stone": "2025-07-13 03:30:44 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/cyan_lens": {
-    "criteria": {
-      "has_glass_pane": "2025-07-13 03:34:20 +0000"
     },
     "done": true
   },
@@ -286,51 +364,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/chest": {
-    "criteria": {
-      "has_lots_of_items": "2025-07-13 01:59:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/lectern": {
-    "criteria": {
-      "has_book": "2025-07-13 01:56:55 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/maraca": {
-    "criteria": {
-      "maraca": "2025-07-13 01:49:21 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-07-13 03:30:44 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/purple_lens": {
-    "criteria": {
-      "has_glass_pane": "2025-07-13 03:34:20 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:fighting_nightmares": {
-    "criteria": {
-      "fighting_nightmares_0": "2025-07-13 01:59:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
-    "criteria": {
-      "has_book": "2025-07-13 01:56:55 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_bookshelf": {
-    "criteria": {
-      "has_book": "2025-07-13 01:56:55 +0000"
     },
     "done": true
   },
@@ -346,9 +382,81 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/writable_book": {
+  "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
-      "has_book": "2025-07-13 01:56:55 +0000"
+      "has_cobblestone": "2025-07-13 03:30:44 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_andesite": {
+    "criteria": {
+      "has_cobblestone": "2025-07-13 03:30:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2025-07-13 03:30:44 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_diorite": {
+    "criteria": {
+      "has_cobblestone": "2025-07-13 03:30:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-07-13 03:30:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-07-13 03:30:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2025-07-13 03:30:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2025-07-13 03:30:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2025-07-13 03:30:44 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/orange_lens": {
+    "criteria": {
+      "has_glass_pane": "2025-07-13 03:34:20 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/lime_lens": {
+    "criteria": {
+      "has_glass_pane": "2025-07-13 03:34:20 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/cyan_lens": {
+    "criteria": {
+      "has_glass_pane": "2025-07-13 03:34:20 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/purple_lens": {
+    "criteria": {
+      "has_glass_pane": "2025-07-13 03:34:20 +0000"
     },
     "done": true
   },
@@ -376,12 +484,6 @@
     },
     "done": true
   },
-  "nova_structures:root": {
-    "criteria": {
-      "nova_structures:adventure/find_tavern": "2025-07-13 02:02:09 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/misc/blue_lens": {
     "criteria": {
       "has_glass_pane": "2025-07-13 03:34:20 +0000"
@@ -394,87 +496,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/stone_pickaxe": {
-    "criteria": {
-      "has_cobblestone": "2025-07-13 03:30:44 +0000"
-    },
-    "done": true
-  },
-  "nova_structures:adventure/find_tavern": {
-    "criteria": {
-      "nova_structures:tavern_oak": "2025-07-13 02:02:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/charcoal": {
-    "criteria": {
-      "has_log": "2025-07-13 03:29:38 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/la_cucaracha": {
-    "criteria": {
-      "tame": "2025-07-13 01:49:24 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:squireofthe_dark_lord": {
-    "criteria": {
-      "squireofthe_dark_lord_5": "2025-07-13 01:57:52 +0000"
-    },
-    "done": false
-  },
   "securitycraft:recipes/misc/pink_lens": {
     "criteria": {
       "has_glass_pane": "2025-07-13 03:34:20 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_andesite": {
-    "criteria": {
-      "has_cobblestone": "2025-07-13 03:30:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cobblestone_slab": {
-    "criteria": {
-      "has_cobblestone": "2025-07-13 03:30:44 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_diorite": {
-    "criteria": {
-      "has_cobblestone": "2025-07-13 03:30:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oak_planks": {
-    "criteria": {
-      "has_logs": "2025-07-13 03:29:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_nugget_from_blasting": {
-    "criteria": {
-      "has_iron_axe": "2025-07-13 01:57:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
-    "criteria": {
-      "has_cobblestone": "2025-07-13 03:30:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
-    "criteria": {
-      "has_cobblestone": "2025-07-13 03:30:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cobblestone_stairs": {
-    "criteria": {
-      "has_cobblestone": "2025-07-13 03:30:44 +0000"
     },
     "done": true
   },
@@ -490,33 +514,9 @@
     },
     "done": true
   },
-  "securitycraft:recipes/misc/sc_manual": {
-    "criteria": {
-      "has_wood": "2025-07-13 03:29:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/stone_hoe": {
-    "criteria": {
-      "has_cobblestone": "2025-07-13 03:30:44 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/misc/red_lens": {
     "criteria": {
       "has_glass_pane": "2025-07-13 03:34:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/stone_shovel": {
-    "criteria": {
-      "has_cobblestone": "2025-07-13 03:30:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oak_wood": {
-    "criteria": {
-      "has_log": "2025-07-13 03:29:38 +0000"
     },
     "done": true
   },
@@ -537,6 +537,120 @@
       "has_glass_pane": "2025-07-13 03:34:20 +0000"
     },
     "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-13 04:34:01 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-07-13 04:22:11 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-13 04:34:01 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-07-13 04:29:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-07-13 04:28:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-07-13 04:22:11 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-13 04:34:01 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-13 04:34:01 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-13 04:34:01 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-13 04:34:01 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-13 04:34:01 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-13 04:34:01 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-07-13 04:22:17 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-13 04:34:01 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-07-13 04:22:11 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-13 04:34:01 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-07-13 04:28:12 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-13 04:34:01 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-13 04:34:01 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
