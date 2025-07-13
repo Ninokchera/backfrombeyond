@@ -149,3 +149,7 @@
 [13Jul2025 13:04:16.699] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 bison_fur because there is no smelting recipe
 [13Jul2025 13:09:32.413] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/228, l='ServerLevel[world]', x=-7966.18, y=72.00, z=-7502.57] died, message: 'Fisherman was slain by Door Knight'
 [13Jul2025 13:17:18.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: josuektm12 has reached the goal [Senior Summoner]
+[13Jul2025 13:39:30.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <josuektm12> -7948 71
+[13Jul2025 13:39:55.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <josuektm12> -7948 71 -7525
+[13Jul2025 13:47:41.183] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=202, y=47, z=211}
+[13Jul2025 13:48:16.548] [Worker-Main-46/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=203, y=48, z=159}
