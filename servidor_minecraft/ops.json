@@ -1,0 +1,20 @@
+[
+  {
+    "uuid": "6929743f-d1db-31d7-9f0c-1f3e34888e99",
+    "name": "Rikuyahi",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "557b1f0c-af7a-37b5-940c-34c8b4b68c6e",
+    "name": "Rogalus",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "f5678bc4-341d-3bbc-8697-3886576751bf",
+    "name": "ninokchera",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
